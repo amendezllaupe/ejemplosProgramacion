@@ -1,0 +1,4 @@
+2000;Cama
+500;Silla
+250;Mesa
+982112;Rack
